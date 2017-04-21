@@ -1,0 +1,14 @@
+---
+
+
+dependencies: []
+
+galaxy_info:
+  author: TheDumbTechGuy
+  description: Ping ansible hosts.
+  company: "Half Tree Labs"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.0
+  galaxy_tags:
+    - ping
+    - debugging
